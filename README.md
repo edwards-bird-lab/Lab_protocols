@@ -1,7 +1,7 @@
 # Lab protocols
 Laboratory protocols for various applications
 
-## How to make reagents:
+## Reagents:
 - RNAlater
 - Queen's Lysis Buffer
 
