@@ -1,2 +1,3 @@
-# Lab_protocols
+# Lab protocols
 Laboratory protocols for various applications
+
