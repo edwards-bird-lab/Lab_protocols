@@ -6,4 +6,4 @@ Laboratory protocols for various applications
 - Queen's Lysis Buffer
 
 ## Experimental methods:
-- Arima HiC for bird blood
+- Arima HiC protocols for bird blood and for tissue
